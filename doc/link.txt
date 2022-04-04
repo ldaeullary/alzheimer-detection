@@ -1,1 +1,1 @@
-https://www.kaggle.com/code/ezzaldin6/covid-19-detection-100-accuracy
+https://www.kaggle.com/code/gonzalorecioc/alzheimer-brain-mri-classifier-effnetb0-75-acc
